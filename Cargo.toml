@@ -13,7 +13,7 @@ readme = "README.md"
 mdns-sd = "0.11"
 qrcode = "0.14"
 rand = "0.8"
-tokio = { version = "1", features = ["rt-multi-thread", "macros", "time", "sync"] }
+tokio = { version = "1", features = ["rt-multi-thread", "macros", "time", "sync", "net", "io-util"] }
 ctrlc = "3.4"
 flume = "0.11"
 

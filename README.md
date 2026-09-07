@@ -1,5 +1,8 @@
 # pairqr
 
+[![CI](https://github.com/gustawdaniel/pairqr/actions/workflows/ci.yml/badge.svg)](https://github.com/gustawdaniel/pairqr/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/gustawdaniel/pairqr/branch/fix%2Ftarget-device-connect-and-tcp-fallback/graph/badge.svg)](https://app.codecov.io/gh/gustawdaniel/pairqr)
+
 A command-line tool to pair Android devices for wireless ADB debugging by scanning a QR code, just like Android Studio.
 
 **GitHub:** https://github.com/richard-fairthorne/pairqr
